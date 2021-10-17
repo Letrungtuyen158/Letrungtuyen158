@@ -8,11 +8,10 @@ I'm TuyenLe a Full Stack Web Developer
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently studying at Greenwich University
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 🤔 I am studying and learning more about reactjs and nodejs.
+- 📫 How to reach me: nhoctengi158@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
