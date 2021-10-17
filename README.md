@@ -4,7 +4,10 @@ I'm TuyenLe a Full Stack Web Developer
 
 :mailbox: Reach me out!
 
- [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-TuyenLe-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010118567054 ) 
+ [![Linkedin Badge](https://img.shields.io/badge/-TuyenLe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-le-721baa200/) 
+ [![initargram Badge](https://img.shields.io/badge/-@Tuyenle-e84393?style=flat&labelColor=f8a5c2&logo=instagram&logoColor=white)](https://www.instagram.com/tuyen15888/) 
+ [![Mail Badge](https://img.shields.io/badge/-LeTrungTuyen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nhoctengi158@gmail.com)
 
 <!-- TODO: Add last video link -->
 
