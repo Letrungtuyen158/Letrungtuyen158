@@ -57,7 +57,7 @@ I'm TuyenLe a Full Stack Web Developer
 <br />
 
 #### About Me
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Letrungtuyen158/My-Profile/blob/main/MyCV/Le-Trung-Tuyen-CV-Front-end.pdf)
 - :email: nhoctengi158@gmail.com
 
 
