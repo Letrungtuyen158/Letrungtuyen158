@@ -49,8 +49,7 @@ I'm TuyenLe a Front-end Web Developer
 <br />
 
 #### About Me
-- :paperclip: [My Resume/CV](https://github.com/Letrungtuyen158/My-Profile/blob/main/MyCV/Le-Trung-Tuyen-CV-Front-end.pdf)
-- :email: nhoctengi158@gmail.com
+- :email: tuyentrungle158@gmail.com
 
 
 
