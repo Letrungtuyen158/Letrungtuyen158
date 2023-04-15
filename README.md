@@ -12,7 +12,6 @@ I'm TuyenLe a Front-end Web Developer
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently studying at Greenwich University
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I am studying and learning more about reactjs and nodejs.
 - 📫 How to reach me: nhoctengi158@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
